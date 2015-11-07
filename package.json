@@ -1,0 +1,33 @@
+{
+	"name": "deep-objects",
+	"version": "1.0.0",
+	"description": "Provides functions to get, set or delete deep object properties using dot notation.",
+	"main": "main",
+	"scripts": {
+		"test": "mocha --recursive \"test\""
+	},
+	"keywords": [
+		"objects",
+		"deep",
+		"nested",
+		"properties",
+		"dot",
+		"notation"
+	],
+	"author": {
+		"name": "Rafael Schenk",
+		"email": "ceresith@web.de"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"mocha": "^2.1.0",
+		"chai": "^2.1.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ceresith/deep-objects.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ceresith/deep-objects/issues"
+	}
+}
